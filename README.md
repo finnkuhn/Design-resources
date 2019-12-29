@@ -1,12 +1,12 @@
-Content Filter
+design resources
 =========
 
-A slide-in filter panel powered by CSS and jQuery.
+A filterable gallery to find free design resources.
 
-[Article on CodyHouse](http://codyhouse.co/gem/content-filter/)
+Source for most of the code: https://codyhouse.co/gem/content-filter/)
 
-[Demo](http://codyhouse.co/demo/content-filter/index.html)
+
 
 Filter plugin: [MixItUp](https://github.com/patrickkunka/mixitup) (free to use in non-commercial projects)
- 
+
 [Terms](http://codyhouse.co/terms/)
