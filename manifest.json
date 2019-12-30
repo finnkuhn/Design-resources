@@ -1,6 +1,6 @@
 {
-  "short_name": "design resources",
-  "name": "design resources by Orchomenos",
+  "short_name": "Design resources",
+  "name": "Design resources by Orchomenos",
   "icons": [
     {
       "src": "img/icon196.png",
@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/design-resources",
+  "start_url": "/design-resources/",
   "background_color": "#ffffff",
-  "display": "browser",
-  "scope": "/design-resources",
+  "display": "fullscreen",
+  "scope": "/Design-resources/",
   "theme_color": "#ffffff"
 }
