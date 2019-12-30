@@ -16,6 +16,6 @@
   "start_url": "/design-resources",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "design-resources/",
+  "scope": "/design-resources",
   "theme_color": "#ffffff"
 }
