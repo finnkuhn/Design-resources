@@ -2,7 +2,9 @@ design resources
 =========
 
 A page to find free design resources, fonts, illustrations, photos and a lot more. Stil in work, please mail your suggestions at orchomenos@outlook.de, thank you in advance.
+Accesible here: https://orchomenos.github.io/Design-resources/
 
+=========
 
 Source for most of the code: https://codyhouse.co/gem/content-filter/)
 
