@@ -132,9 +132,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.0397895"
      inkscape:cx="157.89764"
-     inkscape:cy="533.09729"
+     inkscape:cy="546.2561"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5026"
+     inkscape:current-layer="g5792"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:object-paths="true"
@@ -160,7 +160,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,14 +177,12 @@
        id="rect819"
        style="opacity:1;fill:#e2e2e2;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.50059795;stroke-opacity:0.20153061;paint-order:normal;filter:url(#filter911)" />
     <g
-       id="g5026"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g851">
       <g
-         inkscape:export-xdpi="37.999992"
-         inkscape:export-ydpi="37.999992"
-         id="g5032">
+         id="g5792">
         <rect
+           inkscape:export-ydpi="341.33334"
+           inkscape:export-xdpi="341.33334"
            style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.70000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.50059795;stroke-opacity:0.20153061;paint-order:normal"
            id="rect815"
            width="38.100002"
@@ -193,6 +191,8 @@
            y="139.32819"
            ry="0" />
         <g
+           inkscape:export-ydpi="168.18704"
+           inkscape:export-xdpi="168.18704"
            id="g5020"
            transform="matrix(-0.96318092,0,0,-0.96318092,166.57176,310.84046)"
            style="stroke-width:1.03822649">
