@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/design-resources",
+  "start_url": "https://orchomenos.github.io/Design-resources/",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/Design-resources",
+  "scope": "https://orchomenos.github.io/Design-resources/",
   "theme_color": "#ffffff"
 }
