@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "",
-  "background_color": "#000000",
+  "start_url": "/design-resources",
+  "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/design-resources/",
-  "theme_color": "#000000"
+  "scope": "design-resources/",
+  "theme_color": "#ffffff"
 }
