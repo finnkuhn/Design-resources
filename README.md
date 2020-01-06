@@ -5,4 +5,5 @@ A page to find free design resources, fonts, illustrations, photos and a lot mor
 Accessible here: https://orchomenos.github.io/Design-resources/
 
 Source for most of the code: [codyhouse](https://codyhouse.co/gem/content-filter/)
+
 Filter plugin: [MixItUp](https://github.com/patrickkunka/mixitup) (free to use in non-commercial projects)
