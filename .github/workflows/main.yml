@@ -1,0 +1,17 @@
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+      
+    - name: 📂 Sync files
+      uses: webitsbr/github-to-ftp@1.0.1
+      with:
+        server: ${{ secrets.server }}
+        server-dir: ${{ secrets.dir }}
+        username: ${{ secrets.username }}
+        password: ${{ secrets.password }}
